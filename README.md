@@ -1,4 +1,7 @@
 # Docker-Essential-Linkedin
+
+https://www.linkedin.com/learning/docker-essential-training/docker-recap?resume=false
+
 Docker recap
 Selecting transcript lines in this section will navigate to timestamp in the video
 - [Instructor] Let's start off with a brief overview of what Docker is and how it works.
